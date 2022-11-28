@@ -10,3 +10,7 @@ This website is develop using HTML, CSS and JavaScript hopefully implement a dat
 Clone this project to your local machine repository, type:
 
     git clone git@github.com:cs-sylojos/odin-recipes.git
+
+# DISCLAIMER
+This is a mini project for practicing and learning web development.
+Current all recipes are taken from https://www.allrecipes.com/ and https://thehealthyfoodie.com/.
